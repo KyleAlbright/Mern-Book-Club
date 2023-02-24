@@ -18,6 +18,11 @@ Learn more about my [mit](https://choosealicense.com/licenses/mit) license.
 
 ### Click [HERE](https://search-for-books.herokuapp.com/) to view deployed website. 
 
+
+![Screenshot (98)](https://user-images.githubusercontent.com/110487869/221252316-19dedcb8-1526-4322-bd11-ec8b6fa0f0ad.png)
+
+![Screenshot (99)](https://user-images.githubusercontent.com/110487869/221252338-9b685f9a-8e6b-4fcd-86e6-69e6c6436e10.png)
+
 ### [Description](#table-of-contents)
 In this challenge I was tasked with refactoring an existing google book search api that was built using RESTful API, and change it to be a GraphQL API built with Apollo Server. I used mutations to fetch and modify data, modified the existing authentication middlewear, and created an Apollo Provider to communicate with the Apollo Server. 
 
